@@ -5,7 +5,7 @@ A simple, clean counter web app built with HTML, CSS, and JavaScript — created
 ---
 
 ## 📸 Demo
-<img width="1868" height="904" alt="image" src="https://github.com/user-attachments/assets/50e9d6ac-8508-4467-84ce-4917099e29da" />
+![counter](https://github.com/user-attachments/assets/5efb967e-4b2e-4d55-b7b5-498212fa87a7)
 
 
 > A minimal counter running in the browser with Increment, Decrement, and Reset controls.
