@@ -7,11 +7,8 @@ A simple, clean counter web app built with HTML, CSS, and JavaScript — created
 ---
 
 ## 📸 Demo
-<img width="1891" height="986" alt="image" src="https://github.com/user-attachments/assets/7ef353ff-c8f8-4e6d-b978-d156f1926b8b" />
 
-![dice](https://github.com/user-attachments/assets/f178587f-da7b-4e5f-a929-401ff8fe0d8e)
-
-
+![counter](https://github.com/user-attachments/assets/307841b9-f1b9-44d8-a418-e766db35ed59)
 
 
 > A minimal counter running in the browser with Increment, Decrement, and Reset controls.
@@ -78,6 +75,15 @@ Building this project helped me practice and understand:
 > A sleek, interactive dice roller built with pure HTML, CSS, and JavaScript — no frameworks, no dependencies, just the web doing what it does best.
 
 ---
+
+
+## Demo
+
+<img width="1891" height="986" alt="image" src="https://github.com/user-attachments/assets/4107dfcc-a87f-4080-b635-786c0aa59520" />
+
+![dice](https://github.com/user-attachments/assets/93950ef6-a6a2-4b33-8bd2-6480f982d76f)
+
+
 
 ## ✨ Features
 
