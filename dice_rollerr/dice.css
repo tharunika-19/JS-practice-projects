@@ -1,0 +1,43 @@
+body{
+    display: flex;
+    justify-content: center;   /* horizontal center */
+    align-items: center;       /* vertical center */
+    height: 100vh;             /* full screen height */
+    margin: 0;
+}
+
+#container{
+    width: 600px;
+    background-color: antiquewhite;
+    border-radius:12px;
+    padding:40px;
+    text-align:center;
+}
+#rollbtn{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+button{
+    margin-top: 10px;
+    padding:10px 15px;
+    border:none;
+    background-color:rgb(28, 28, 163);
+    cursor:pointer;
+    font-color:white;
+}
+button:hover{
+    background-color: lightblue;
+}
+#numsDice{
+    width: 50px;
+    padding: 5px;
+    border-radius: 5px;
+}
+input{
+    width:150px;
+    text-align:center;
+}
