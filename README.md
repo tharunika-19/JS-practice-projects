@@ -161,3 +161,85 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 <p align="center">Made with ❤️ and a little bit of luck 🎲</p>
+
+# 🔐 Password Generator
+
+A simple and responsive **Password Generator Web App** built using **HTML, CSS, and JavaScript**.  
+It allows users to generate strong, random passwords instantly.
+
+---
+
+## 🚀 Features
+
+- Generate secure random passwords
+- Includes:
+  - Uppercase letters (A–Z)
+  - Lowercase letters (a–z)
+  - Numbers (0–9)
+  - Symbols (!@#$...)
+- Clean and responsive UI
+- One-click password generation
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📸 Preview
+![password_gen](https://github.com/user-attachments/assets/16b7896b-e9ad-4ac6-9858-33673519caa9)
+
+
+
+---
+
+## 📂 Project Structure
+
+```
+password-generator/
+│── index.html
+│── style.css
+│── script.js
+```
+
+---
+
+## ⚙️ How It Works
+
+1. User clicks the **"Generate Password"** button  
+2. JavaScript function runs  
+3. Random characters are selected from allowed sets  
+4. Password is displayed on the screen  
+
+---
+
+## 🧠 Core Logic
+
+- Uses `Math.random()` to generate random indices  
+- Selects characters from predefined character sets  
+- Builds password using a loop  
+
+---
+
+## 📌 Future Improvements
+
+- Add password length input
+- Add checkboxes for character selection
+- Copy to clipboard button 📋
+- Password strength indicator 💪
+
+---
+
+## 💡 Author
+
+- tharunika
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub and share it!
