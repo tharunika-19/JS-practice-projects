@@ -234,6 +234,74 @@ password-generator/
 
 ---
 
+# ⏰ Digital Clock
+
+A simple and elegant digital clock built using **HTML, CSS, and JavaScript**.  
+It displays the current time in real-time with a clean UI and background image.
+
+---
+
+## 🚀 Features
+- 🕒 Live real-time clock
+- 🎨 Clean and minimal UI
+- 🖼️ Background image support
+- 📱 Responsive design
+- ⚡ Lightweight and fast
+
+---
+
+## 🛠️ Tech Stack
+- HTML
+- CSS (Flexbox for centering)
+- JavaScript (Date & Time functions)
+
+---
+
+## 📸 Preview
+<img width="1606" height="788" alt="clock1" src="https://github.com/user-attachments/assets/34e2ed9e-50a4-4675-815e-451314af430e" />
+
+
+
+---
+
+## 📂 Project Structure
+```
+clock_program/
+│── index.html
+│── clock.css
+│── script.js
+│── bg1.jpg
+```
+
+---
+
+## ▶️ How to Run
+1. Clone the repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+
+2. Open `clock.html` in your browser
+
+---
+
+## 💡 What I Learned
+- Working with JavaScript Date object
+- DOM manipulation
+- Styling with Flexbox
+- Centering elements properly
+
+---
+
+## 🔮 Future Improvements
+- Add dark/light mode 🌙
+- Add multiple time zones 🌍
+- Add alarm feature ⏰
+- Improve UI animations ✨
+
+
+---
+
 ## 💡 Author
 
 - tharunika
