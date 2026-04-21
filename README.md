@@ -301,6 +301,71 @@ git clone https://github.com/your-username/your-repo-name.git
 
 
 ---
+# ⏱️ Stopwatch Program
+
+A simple and clean stopwatch built using **HTML, CSS, and JavaScript**.  
+This project demonstrates core JavaScript concepts like timing functions, DOM manipulation, and event handling.
+
+---
+
+## 🚀 Features
+
+- ▶️ Start the stopwatch  
+- ⏸️ Stop / Pause functionality  
+- 🔄 Reset timer to zero  
+- ⏱️ Displays **hours : minutes : seconds : milliseconds**  
+- 🎨 Clean and responsive UI  
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📂 Project Structure
+📁 stopwatch-project
+│── index.html
+│── styles.css
+│── index.js
+
+
+---
+
+## ⚙️ How It Works
+
+- Uses `Date.now()` to track time  
+- `setInterval()` updates the display continuously  
+- Calculates elapsed time and formats it into:
+
+
+## 📸 Preview
+
+<img width="1600" height="780" alt="topw1" src="https://github.com/user-attachments/assets/f0403f56-910a-4c4a-ab5c-f577596e0843" />
+
+
+
+---
+
+## 💡 Learnings
+
+- JavaScript timing functions (`setInterval`, `clearInterval`)  
+- DOM manipulation  
+- Event handling  
+- Time calculations and formatting  
+
+---
+
+## 🚀 Future Improvements
+
+- Add **Lap timer feature**  
+- Add **Dark mode**  
+- Add **Animations**  
+- Improve UI/UX  
+
 
 ## 💡 Author
 
