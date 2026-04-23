@@ -364,7 +364,69 @@ This project demonstrates core JavaScript concepts like timing functions, DOM ma
 - Add **Lap timer feature**  
 - Add **Dark mode**  
 - Add **Animations**  
-- Improve UI/UX  
+- Improve UI/UX
+
+# 🧮 Tara's Calculator
+
+A simple and responsive calculator built using **HTML, CSS, and JavaScript**.  
+This project performs basic arithmetic operations and demonstrates core JavaScript concepts like DOM manipulation and event handling.
+
+---
+
+## 🚀 Features
+
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+- 🧹 Clear display  
+- ⌫ Delete last input  
+- ⚠️ Error handling for invalid expressions  
+- 🎨 Clean and user-friendly UI  
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📂 Project Structure
+📁 calculator-project
+│── index.html
+│── styles.css
+│── index.js
+
+## 📸 Preview
+
+<img width="1622" height="772" alt="image" src="https://github.com/user-attachments/assets/103c622f-c98a-4039-959e-bd3706168a8a" />
+
+<img width="1582" height="710" alt="calc" src="https://github.com/user-attachments/assets/425d5925-bd42-4bca-9e99-55ee4a209943" />
+
+
+
+---
+
+## 💡 Learnings
+
+- DOM manipulation  
+- Event handling  
+- JavaScript functions  
+- Error handling (`try...catch`)  
+
+---
+
+## 🚀 Future Improvements
+
+- Add keyboard support  
+- Add scientific calculator functions  
+- Improve UI with animations  
+- Add dark mode  
+
+---
 
 
 ## 💡 Author
